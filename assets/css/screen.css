@@ -457,8 +457,8 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 font-family: 'Roboto Slab', serif;
 font-style: bold;
 color: black;
-font-size: 18pt;
-transition: all 1.0s ease;
+font-size: 15pt;
+transition: all 1.0s ease-in;
 }
 
 .post-card-content {
