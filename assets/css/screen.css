@@ -458,7 +458,7 @@ font-family: 'Roboto Slab', serif;
 font-style: bold;
 color: black;
 font-size: 15pt;
-transition: all 1.0s ease-in;
+transition: all 1.0s ease-out;
 }
 
 .post-card-content {
